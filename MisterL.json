@@ -1,0 +1,155 @@
+	
+	{
+	"ServerName":"[RU]MisterL 24\7 Cluster Group ",
+	"ButtonTxt1":"Общее",
+	"ButtonTxt2":"[RU]MisterL Cluster Group [Power]",
+	"ButtonTxt3":"[RU]MisterL Cluster Group [Lite]",
+	"ButtonTxt4":"",
+	"ButtonTxt5":"",
+	"LinkButtonTxt1":"Пусто",
+	"LinkButtonTxt2":"Discord",
+	"LinkButtonTxt3":"",
+	"LinkButtonTxt4":"",
+	"LinkButtonTxt5":"",
+	"LinkButton1":"",
+	"LinkButton2":"https://discord.gg/9z4yRkb3fb",
+	"Link1Button3":"",
+	"Link2Button3":"",
+	"Link3Button3":"",
+	"Link4Button3":"",
+	"Link1Button4":"",
+	"Link2Button4":"",
+	"Link3Button4":"",
+	"Link4Button4":"",
+	"Link1Button5":"",
+	"Link2Button5":"",
+	"Link3Button5":"",
+	"Link4Button5":"",
+	"Tab1Panelcount":1,
+	"Tab2Panelcount":3,
+	"Tab3Panelcount":3,
+	"Tab4Panelcount":1,
+	"Tab5Panelcount":1,
+	"BackgroundTab1":12,
+	"BackgroundTab2":12,
+	"BackgroundTab3":0,
+	"BackgroundTab4":0,
+	"BackgroundTab5":0,
+	"Background3Color":"",
+	"FontColorButtons":"",
+	"FontColorServerName":"",
+	"FontColorTabTitles":"",
+	"FontColorTabText":"",
+	"UseSteamBrowserLink1":false,
+	"UseSteamBrowserLink2":false,
+	"Tab1Title1":"Правила серверов и тп",
+	"Tab1Title2":"",
+	"Tab1Title3":"",
+	"Tab2Title1":"Рейты",
+	"Tab2Title2":"Установленные моды",
+	"Tab2Title3":"Карты и IP",
+	"Tab3Title1":"Рейты",
+	"Tab3Title2":"Установленные моды",
+	"Tab3Title3":"Карты и IP",
+	"Tab4Title1":"",
+	"Tab4Title2":"",
+	"Tab4Title3":"",
+	"Tab5Title1":"",
+	"Tab5Title2":"",
+	"Tab5Title3":"",
+	"Tab1Text1":"Здравствуй дорогой игкрок.
+Данное окно открывается на F1 и хронит информацию о 2 разных груп серверов.",
+	"Tab1Text2":"",
+	"Tab1Text3":"",
+	"Tab2Text1":"Максимальный уровень диких дино на сервере - 1,000 лвл
+Время хранения в данных - 144.000 минут
+Опыт - в 5 раз больше
+Интервал спаривания - в 10000  раз чаще
+Скорость спаривания - в 14  раз быстрее
+Скорость инкубации яиц - в 50  раз быстрее
+Скорость взросления - в 40 раз быстрее
+Множитель уделения внимания - в 200 раз больше привязанности за раз
+Интервал между удилением внимания - в 1000 раз чаще
+Скорость приручения - ну вот тут сложно вычеслить.... примерно в 10 раз быстрее
+Множитель сбора ресурсов - в 10 раз больше
+Время роста растений - в 10 раз быстрее
+Интервал испражнений - в 10 раз медленне
+Скорость роста волос - в 2 раза быстрее
+Размер стаков - в 50 раз больше (есть спец. изменения стаков определённых предметов)",
+	"Tab2Text2":"https://steamcommunity.com/sharedfiles/filedetails/?id=3303032952   Mod for my server 3303032952
+https://steamcommunity.com/sharedfiles/filedetails/?id=731604991    Structures Plus (S+)
+https://steamcommunity.com/sharedfiles/filedetails/?id=889745138    Awesome Teleporters!
+https://steamcommunity.com/sharedfiles/filedetails/?id=1231538641   ARKomatic
+https://steamcommunity.com/sharedfiles/filedetails/?id=1404697612   Awesome SpyGlass!
+https://steamcommunity.com/sharedfiles/filedetails/?id=1609138312   Dino Storage v2
+https://steamcommunity.com/sharedfiles/filedetails/?id=812639416    Weapons+
+https://steamcommunity.com/sharedfiles/filedetails/?id=764792033    Armour+
+https://steamcommunity.com/sharedfiles/filedetails/?id=1295978823   Simple Spawners
+https://steamcommunity.com/sharedfiles/filedetails/?id=2103157852   Kavans Missions and Shops
+https://steamcommunity.com/sharedfiles/filedetails/?id=1591643730   Creature Finder Deluxe
+https://steamcommunity.com/sharedfiles/filedetails/?id=1961542614   Upgrade My Dino - Mod Wild Stat Levels, Imprints, & More
+https://steamcommunity.com/sharedfiles/filedetails/?id=2144296420   ARK Event Map, Event Karte PVE / PVP
+https://steamcommunity.com/sharedfiles/filedetails/?id=924619115    Editable Server UI (WBUI) Open Source
+https://steamcommunity.com/sharedfiles/filedetails/?id=566885854    Death Helper",
+	"Tab2Text3":"steam://connect/77.37.141.41:15005 - Ragnarok
+steam://connect/77.37.141.41:15015 - Genesis 1
+steam://connect/77.37.141.41:15025 - Genesis 2
+steam://connect/77.37.141.41:15035 - Fjordur
+steam://connect/77.37.141.41:15045 - The Island
+steam://connect/77.37.141.41:15055 - Lost Island
+steam://connect/77.37.141.41:15065 - Crystal Isles
+steam://connect/77.37.141.41:15075 - Scorched Earth
+steam://connect/77.37.141.41:15085 - Aberration
+steam://connect/77.37.141.41:15095 - Extinction
+steam://connect/77.37.141.41:15195 - Event Map",
+	"Tab3Text1":"Максимальный уровень диких дино на сервере - 150 лвл
+Время хранения в данных - 144.000 минут
+Опыт - в 5 раз больше
+Интервал спаривания - в 40 раз чаще
+Скорость спаривания - в 10  раз быстрее
+Скорость инкубации яиц - в 25  раз быстрее
+Скорость взросления - в 20 раз быстрее
+Множитель уделения внимания - в 500 раз больше привязанности за раз
+Интервал между удилением внимания - в 200 раз чаще
+Скорость приручения - ну вот тут сложно вычеслить.... примерно в 5 раз быстрее
+Множитель сбора ресурсов - в 5 раз больше
+Время роста растений - дефолтные значения (буду ускорять)
+Интервал испражнений - дефолтные значения (возможно менять не буду)
+Скорость роста волос - дефолтные значения (возможно менять не буду)
+Размер стаков - mod Ultra Stacks",
+	"Tab3Text2":"https://steamcommunity.com/sharedfiles/filedetails/?id=3303032952   Mod for my server 3303032952
+https://steamcommunity.com/sharedfiles/filedetails/?id=731604991    Structures Plus (S+)
+https://steamcommunity.com/sharedfiles/filedetails/?id=889745138    Awesome Teleporters!
+https://steamcommunity.com/sharedfiles/filedetails/?id=1404697612   Awesome SpyGlass!
+https://steamcommunity.com/sharedfiles/filedetails/?id=1295978823   Simple Spawners
+https://steamcommunity.com/sharedfiles/filedetails/?id=609380111    Stargate Worlds v3.0
+https://steamcommunity.com/sharedfiles/filedetails/?id=1522327484   ARK Additions: The Collection!
+https://steamcommunity.com/sharedfiles/filedetails/?id=1373744537   Additional Creatures 2: Wild Ark
+https://steamcommunity.com/sharedfiles/filedetails/?id=2307661303   Crafting Skill Potion
+https://steamcommunity.com/sharedfiles/filedetails/?id=566885854    Death Helper
+https://steamcommunity.com/sharedfiles/filedetails/?id=1609138312   Dino Storage v2
+https://steamcommunity.com/sharedfiles/filedetails/?id=2144296420   ARK Event Map, Event Karte PVE / PVP
+https://steamcommunity.com/sharedfiles/filedetails/?id=761535755    Ultra Stacks
+https://steamcommunity.com/sharedfiles/filedetails/?id=1591643730   Creature Finder Deluxe
+https://steamcommunity.com/sharedfiles/filedetails/?id=924619115    Editable Server UI (WBUI) Open Source
+https://steamcommunity.com/sharedfiles/filedetails/?id=1961542614   Upgrade My Dino
+https://steamcommunity.com/sharedfiles/filedetails/?id=3108122319   Ascended 2 Evolved loot drops
+https://steamcommunity.com/sharedfiles/filedetails/?id=2103157852   Kavans Missions and Shops",
+	"Tab3Text3":"steam://connect/77.37.141.41:14005 - Ragnarok
+steam://connect/77.37.141.41:14015 - Genesis 1
+steam://connect/77.37.141.41:14025 - Genesis 2
+steam://connect/77.37.141.41:14035 - Fjordur
+steam://connect/77.37.141.41:14045 - The Island
+steam://connect/77.37.141.41:14055 - Lost Island
+steam://connect/77.37.141.41:14065 - Crystal Isles
+steam://connect/77.37.141.41:14075 - Scorched Earth
+steam://connect/77.37.141.41:14085 - Aberration
+steam://connect/77.37.141.41:14095 - Extinction
+steam://connect/77.37.141.41:14195 - Event Map",
+	"Tab4Text1":"",
+	"Tab4Text2":"",
+	"Tab4Text3":"",
+	"Tab5Text1":"",
+	"Tab5Text2":"",
+	"Tab5Text3":""
+	}
